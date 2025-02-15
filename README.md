@@ -17,7 +17,7 @@
 | 7.  | 08.2024 | [Winnables Rafles](https://audits.sherlock.xyz/contests/516?filter=results) | 2H, 1M | [Open](https://audits.sherlock.xyz/contests/516/report) | Decentralized Raffle |  Sherlock | 5th place |
 | 6.  | 08.2024 | [Tadle](https://x.com/ShieldifySec/status/1788133361917034993) | 3H, 1M, 2L | [Open](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=report) | DeFi |   Codehawks | |
 | 5.  | 07.2024 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | 1H, 3M | [Open](https://code4rena.com/reports/2024-07-traitforge) | NFT Game | Code4rena | |
-| 4. | 07.2024 | [Munchables](https://code4rena.com/audits/2024-07-munchables) | 1M | [Open](https://code4rena.com/reports/2024-07-munchables)| NFT Game | Code4rena | 1H, 1M | |
-| 3. | 07.2024 | [Biconomy](https://codehawks.cyfrin.io/contests/cly8oizwp00014brg47oo8pt1) |  1L | [Open](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) | Account Abstraction | Codehawks| 6th |
+| 4. | 07.2024 | [Munchables](https://code4rena.com/audits/2024-07-munchables) | 1H, 1M | [Open](https://code4rena.com/reports/2024-07-munchables)| NFT Game | Code4rena | |
+| 3. | 07.2024 | [Biconomy](https://codehawks.cyfrin.io/contests/cly8oizwp00014brg47oo8pt1) |  1L | [Open](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) | Account Abstraction | Codehawks| 6th place |
 | 2. | 07.2024 | [MagicSea](https://audits.sherlock.xyz/contests/437) | 2M | [Open](https://audits.sherlock.xyz/contests/437/report)| DEX | Sherlock| |
 | 1. | 06.2024| [eBTC Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)|  1M | [Open](https://code4rena.com/reports/2024-06-badger) | Perpetuals | Code4rena | 4th place|
