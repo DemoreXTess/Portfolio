@@ -2,12 +2,11 @@
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 19. | 01.2025 | [Beraborrow](https://audits.sherlock.xyz/contests/741) | 3M | Private | CDP, Staking | Sherlock | 4th |
-| 18. | 12.2024 | [Idle Finance](https://audits.sherlock.xyz/contests/571) | 1H, 1M | Private | Staking | Sherlock | 5th place |
-| 17. | 11.2024 | [Extra Finance](https://audits.sherlock.xyz/contests/380) | 1M | Private | Lending/Borrowing | Sherlock | 5th place |
-| 16. | 11.2024 | [RuneMine](https://audits.sherlock.xyz/contests/513) | 1M | Private | Crosschain | Sherlock | 6th place |
-| 15. | 11.2024 | [Chilliz Chain System Contracts](https://audits.sherlock.xyz/contests/550) | 3H, 3M | Private | Consensus Staking | Sherlock | 4th place |
-| 14. | 11.2024 | [vVv Launchpad](https://audits.sherlock.xyz/contests/647) | 1H | [Open](https://audits.sherlock.xyz/contests/647/report) | Launchpad | Sherlock | 🥇 place |
+| 18. | 01.2025 | [Beraborrow](https://audits.sherlock.xyz/contests/741) | 3M | Private | CDP, Staking | Sherlock | 4th |
+| 17. | 12.2024 | [Idle Finance](https://audits.sherlock.xyz/contests/571) | 1H, 1M | Private | Staking | Sherlock | 5th place |
+| 16. | 11.2024 | [Extra Finance](https://audits.sherlock.xyz/contests/380) | 1M | Private | Lending/Borrowing | Sherlock | 5th place |
+| 15. | 11.2024 | [RuneMine](https://audits.sherlock.xyz/contests/513) | 1M | Private | Crosschain | Sherlock | 6th place |
+| 14. | 11.2024 | [Chilliz Chain System Contracts](https://audits.sherlock.xyz/contests/550) | 3H, 3M | Private | Consensus Staking | Sherlock | 4th place |
 | 13. | 10.2024 | [Ethos Social](https://audits.sherlock.xyz/contests/584) | 1M | [Open](https://audits.sherlock.xyz/contests/584/report) | Social Network |  Sherlock | 6th place |
 | 12.  | 10.2024 | [Kleidi](https://code4rena.com/audits/2024-10-kleidi) | 2M | [Open](https://code4rena.com/reports/2024-10-kleidi) | Wallet |  Code4rena | 4th place |
 | 11. | 09.2024 | [Boost Core](https://audits.sherlock.xyz/contests/426) | 1H, 1M | [Open](https://audits.sherlock.xyz/contests/426/report) | Staking |  Sherlock | |
