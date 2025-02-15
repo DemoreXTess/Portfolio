@@ -1,6 +1,6 @@
 # Contest History
 
-| № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
+| № | Date | Protocol |  Findings | Report | Type | Competition Platform | Rank |
 |--------|----------|------|-------------|-----------|------|------|------|
 | 18. | 01.2025 | [Beraborrow](https://audits.sherlock.xyz/contests/741) | 3M | Private | CDP, Staking | Sherlock | 4th |
 | 17. | 12.2024 | [Idle Finance](https://audits.sherlock.xyz/contests/571) | 1H, 1M | Private | Staking | Sherlock | 5th place |
