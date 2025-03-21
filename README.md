@@ -2,6 +2,7 @@
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | Rank |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 19. | 02.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | 1H, 8M | [Open](https://audits.sherlock.xyz/contests/749/report) | Leveraged Farming | Sherlock | 4th
 | 18. | 01.2025 | [Beraborrow](https://audits.sherlock.xyz/contests/741) | 3M | Private | CDP, Staking | Sherlock | 4th |
 | 17. | 12.2024 | [Idle Finance](https://audits.sherlock.xyz/contests/571) | 1H, 1M | Private | Staking | Sherlock | 5th place |
 | 16. | 11.2024 | [Extra Finance](https://audits.sherlock.xyz/contests/380) | 1M | Private | Lending/Borrowing | Sherlock | 5th place |
