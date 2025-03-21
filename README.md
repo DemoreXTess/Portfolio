@@ -2,6 +2,7 @@
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | Rank |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 20. | 02.2025 | [LiquidRon](https://code4rena.com/audits/2025-01-liquid-ron) | 1H, 1M | [Open](https://code4rena.com/reports/2025-01-liquid-ron) | Token Launch | Code4rena | - 
 | 19. | 02.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | 1H, 8M | [Open](https://audits.sherlock.xyz/contests/749/report) | Leveraged Farming | Sherlock | 4th
 | 18. | 01.2025 | [Beraborrow](https://audits.sherlock.xyz/contests/741) | 3M | Private | CDP, Staking | Sherlock | 4th |
 | 17. | 12.2024 | [Idle Finance](https://audits.sherlock.xyz/contests/571) | 1H, 1M | Private | Staking | Sherlock | 5th place |
