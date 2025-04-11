@@ -6,6 +6,8 @@ I’m **DemoreXTess**, known as **TessKimy** on the [Sherlock](https://audits.sh
 
 ♦ | 🦀
 
+[Request Audit](https://x.com/demorextess)
+
 # Contest History
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | Rank |
