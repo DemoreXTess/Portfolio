@@ -1,6 +1,6 @@
 # Top-Ranked Web3 Auditor | DemoreXTess ( aka TessKimy )
 
-I’m DemoreXTess, known as TessKimy on the Sherlock platform—a dedicated Web3 security researcher with a strong foothold in DeFi, particularly lending protocols and mathematically intensive systems. Backed by a solid mathematical foundation, I specialize in dissecting complex logic and uncovering subtle flaws across smart contract infrastructures. My work has consistently placed me among the top ranks in competitive audits on platforms like Sherlock, Code4rena, Codehawks, and Cantina, with notable results such as 4th place finishes in major contests like Peapods, Beraborrow, and Kleidi. Whether it’s CDPs, staking mechanics, or cross-chain designs, I bring a sharp, analytical edge to every protocol I audit.
+I’m DemoreXTess, known as TessKimy on the Sherlock platform—a dedicated Web3 security researcher with a strong foothold in DeFi, particularly lending protocols and mathematically intensive systems. Backed by a solid mathematical foundation, I specialize in dissecting complex logic and uncovering subtle flaws across smart contract infrastructures. My work has consistently placed me among the top ranks in competitive audits on platforms like Sherlock, Code4rena, Codehawks, and Cantina, with notable results such as 4th place finishes in major contests like Chilliz, Beraborrow, and Peapods. Whether it’s CDPs, staking mechanics, or cross-chain designs, I bring a sharp, analytical edge to every protocol I audit.
 
 # Contest History
 
