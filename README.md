@@ -1,6 +1,7 @@
 # Top-Ranked Web3 Auditor | DemoreXTess (aka TessKimy)
 
 Hello there!👋
+
 I’m **DemoreXTess**, known as **TessKimy** on the [Sherlock](https://audits.sherlock.xyz/watson/TessKimy) platform—a dedicated Web3 security researcher with a strong foothold in DeFi, particularly lending protocols and mathematically intensive systems. Backed by a solid mathematical foundation, I specialize in dissecting complex logic and uncovering subtle flaws across smart contract infrastructures. My work has consistently placed me among the top ranks in competitive audits on platforms like [Sherlock](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/u/DemoreXTess), [Code4rena](https://code4rena.com/@DemoreX), [Codehawks](https://codehawks.cyfrin.io/), with notable results such as 4th place finishes in major contests like [Chilliz](https://audits.sherlock.xyz/contests/550), [Beraborrow](https://audits.sherlock.xyz/contests/741), and [Peapods](https://audits.sherlock.xyz/contests/749). Whether it’s CDPs, staking mechanics, or cross-chain designs, I bring a sharp, analytical edge to every protocol I audit.
 
 # Contest History
