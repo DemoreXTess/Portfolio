@@ -12,6 +12,7 @@ I’m **DemoreXTess**, known as **TessKimy** on the [Sherlock](https://audits.sh
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | Rank |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 24. | 06.2025 | [Usual](https://audits.sherlock.xyz/contests/988) | 1M | [Open](https://audits.sherlock.xyz/contests/988/report) | ETH0 | Sherlock | 1st place |
 | 23. | 05.2025 | [Burve](https://audits.sherlock.xyz/contests/858) | 3H, 3M | [Open](https://audits.sherlock.xyz/contests/858/report) | AMM | Sherlock | 1st place |
 | 22. | 04.2025 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq) | 2M | Not Available | Hyperliquid Staking | Code4rena | 4th place |
 | 21. | 03.2025 | [Reserve DTFS](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a/leaderboard) | 4M | Private | Token Launch and Auction | Cantina | 4th place |
