@@ -1,4 +1,4 @@
-# Top-Ranked Web3 Auditor | DemoreXTess (aka TessKimy)
+# Senior Security Researcher | DemoreXTess (aka TessKimy)
 
 ## Hello there!👋
 
